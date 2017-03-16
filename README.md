@@ -1,2 +1,3 @@
 # hello-world
-Zdravstvui tovarisch!
+# Zdravstvui tovarisch!
+# Want you drink vodka?
